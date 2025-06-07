@@ -4,13 +4,12 @@
 - 👀 I’m highly interested in sptial proteomics (Deep visual proteomics, DVP) and mass spectrometry technologies, especially in targeted proteomics. I'm dedicated to applying mass spectrometry techniques to the discovery of clinical disease biomarkers, serving the diagnosis and treatment of clinical patients, and advancing the translation of mass spectrometry-based proteomics to the clinic.
 - 🌱 I’m currently learning best practices in spaital data analysis and proteomics methodology development. 
 - 💞️ I’m looking to collaborate and discuss on clinical/biological image analysis.
-- 📫 How to reach me working email ysun@biochem.mpg.de and private email yaotingsun1991@gmail.com.
+- 📫 How to reach me working email ysunATbiochem.mpg.de and private email yaotingsun1991ATgmail.com.
   
 - 💬 Languages: Chinese, English.
 - My publications:
   - [Google Scholar](https://scholar.google.com/citations?user=KXEOu9YAAAAJ&hl=en&oi=ao "()")
   - [Research Gate](https://www.researchgate.net/profile/Yaoting-Sun?ev=hdr_xprf "()") 
-- 
 
 <!---
 yaotingsun/yaotingsun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
