@@ -8,8 +8,8 @@
   
 - 💬 Languages: Chinese, English.
 - My publications:
-  - [Google Scholar](URL "(https://scholar.google.com/citations?user=KXEOu9YAAAAJ&hl=en&oi=ao)")
-  - [Researchgate](URL "(https://www.researchgate.net/profile/Yaoting-Sun?ev=hdr_xprf)") 
+  - [Google Scholar](https://scholar.google.com/citations?user=KXEOu9YAAAAJ&hl=en&oi=ao "()")
+  - [Research Gate](https://www.researchgate.net/profile/Yaoting-Sun?ev=hdr_xprf "()") 
 - 
 
 <!---
