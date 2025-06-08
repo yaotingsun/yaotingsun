@@ -10,7 +10,7 @@
 
 # Publications
   - [Google Scholar](https://scholar.google.com/citations?user=KXEOu9YAAAAJ&hl=en&oi=ao "()")
-  - [Research Gate](https://www.researchgate.net/profile/Yaoting-Sun?ev=hdr_xprf "()") 
+  - [ResearchGate](https://www.researchgate.net/profile/Yaoting-Sun?ev=hdr_xprf "()") 
 
 <!---
 yaotingsun/yaotingsun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
